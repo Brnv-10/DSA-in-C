@@ -1,6 +1,8 @@
 #include<iostream>
 #include<cstdlib>
 
+/*Iterative method for merge sort*/
+
 merging_iterative(int a,int n){
     int l1,l2,r1,r2,i,len;
 
